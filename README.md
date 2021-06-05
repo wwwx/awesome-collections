@@ -3,10 +3,11 @@ Collecting some useful website for Front-end develop
 
 ## Icon
 - [Boxicons](https://boxicons.com/)
-- [ScrollReveal](https://scrollrevealjs.org/)
 
 ## Animation
 - [Greensock's JS Animation Platform](https://greensock.com/get-started/)
+- [ScrollReveal](https://scrollrevealjs.org/)
+- [Skrollr](http://prinzhorn.github.io/skrollr/)
 
 ## Design
 - [Freepik](https://www.freepik.com/home)
