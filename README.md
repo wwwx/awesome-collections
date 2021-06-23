@@ -4,6 +4,7 @@ Collecting some useful website for Front-end develop
 ## Icon
 - [Boxicons](https://boxicons.com/)
 - [Iconscout](https://iconscout.com/)
+- [XIcons](https://www.xicons.org/)
 
 ## Animation
 - [Greensock's JS Animation Platform](https://greensock.com/get-started/)
