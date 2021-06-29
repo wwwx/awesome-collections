@@ -17,6 +17,7 @@ Collecting some useful website for Front-end develop
 - [Pexels -  Free stock videos](https://www.pexels.com/)
 - [Free Illustration Gallery](https://www.manypixels.co/gallery)
 - [Webgradients](https://webgradients.com/)
+- [Shadowlord — Tints and Shades Generator Tool](https://noeldelgado.github.io/shadowlord/#6c048a)
 
 
 ## Chart
