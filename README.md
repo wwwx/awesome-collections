@@ -20,6 +20,7 @@ Collecting some useful website for Front-end develop
 - [Shadowlord — Tints and Shades Generator Tool](https://noeldelgado.github.io/shadowlord/#6c048a)
 - [Unsplash - Photos for everyone](https://unsplash.com/)
 - [Glassmorphism CSS Generator](https://glassmorphism.com/)
+- [Generate Soft-UI CSS code](https://neumorphism.io/#e0e0e0)
 
 ## Chart
 - [Chartist - SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
