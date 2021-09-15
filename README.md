@@ -24,6 +24,7 @@ Collecting some useful website for Front-end develop
 - [unDraw - Open-source illustrations](https://undraw.co/illustrations)
 - [Custom Shape Dividers](https://www.shapedivider.app/)
 - [CSS Gradient Generator](https://cssgradient.io/)
+- [Favicon Generators](https://favicon.io/)
 
 ## Chart
 - [Chartist - SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
