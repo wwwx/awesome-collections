@@ -5,6 +5,7 @@ Collecting some useful website for Front-end develop
 - [Boxicons](https://boxicons.com/)
 - [Iconscout](https://iconscout.com/)
 - [XIcons](https://www.xicons.org/)
+- [Simple Icons - Free SVG icons for popular brands](https://simpleicons.org/)
 
 ## Animation
 - [Greensock's JS Animation Platform](https://greensock.com/get-started/)
