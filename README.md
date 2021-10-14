@@ -2,6 +2,7 @@
 Collecting some useful website for Front-end develop
 
 ## Icon
+- [icon collection](https://icones.js.org/collection/all)
 - [Boxicons](https://boxicons.com/)
 - [Iconscout](https://iconscout.com/)
 - [XIcons](https://www.xicons.org/)
