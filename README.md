@@ -27,6 +27,7 @@ Collecting some useful website for Front-end develop
 - [Custom Shape Dividers](https://www.shapedivider.app/)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [Favicon Generators](https://favicon.io/)
+- [Cloudcraft - Web App Reference Architecture](https://www.cloudcraft.co/)
 
 ## Chart
 - [Chartist - SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
