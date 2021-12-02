@@ -35,3 +35,4 @@ Collecting some useful website for Front-end develop
 
 ## Template
 - [Backstage Management System Template](http://www.bootstrapmb.com/muban/houtai)
+- [Sea Theme - Creative WordPress Theme](https://www.seatheme.net/)
