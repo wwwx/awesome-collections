@@ -28,6 +28,7 @@ Collecting some useful website for Front-end develop
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [Favicon Generators](https://favicon.io/)
 - [Cloudcraft - Web App Reference Architecture](https://www.cloudcraft.co/)
+- [Color Explore](https://colors.dopely.top)
 
 ## Chart
 - [Chartist - SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
