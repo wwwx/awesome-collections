@@ -34,9 +34,11 @@ Collecting some useful website for Front-end develop
 - [Chartist - SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
 
 
+
 ## Template
 - [Backstage Management System Template](http://www.bootstrapmb.com/muban/houtai)
 - [Sea Theme - Creative WordPress Theme](https://www.seatheme.net/)
 
 ## API
 - [Get information about countries via a RESTful API](https://restcountries.com/)
+- [Random dad joke](https://icanhazdadjoke.com/)
