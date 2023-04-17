@@ -29,6 +29,8 @@ Collecting some useful website for Front-end develop
 - [Favicon Generators](https://favicon.io/)
 - [Cloudcraft - Web App Reference Architecture](https://www.cloudcraft.co/)
 - [Color Explore](https://colors.dopely.top)
+- [Eva Design System - Deep learning color generator](https://colors.eva.design/)
+- [colorhunt - Color Palettes for Designers and Artists](https://colorhunt.co/palettes/)
 
 ## Chart
 - [Chartist - SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
